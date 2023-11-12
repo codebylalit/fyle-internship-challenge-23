@@ -1,6 +1,7 @@
 import { Component, OnInit, ViewChild } from '@angular/core';
 import { ApiService } from './services/api.service';
 import { MatPaginator } from '@angular/material/paginator';
+import { Inject } from '@angular/core';
 
 @Component({
   selector: 'app-root',
