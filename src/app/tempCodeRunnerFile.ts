@@ -1,0 +1,1 @@
+{ MatPaginatorModule } from '@angular/material/paginator';
